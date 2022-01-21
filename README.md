@@ -1,2 +1,2 @@
 # Portfolio
-Nothing to read here. Just my "projects"
+There is nothing to read here. Just my "projects"
