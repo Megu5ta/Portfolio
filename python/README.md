@@ -1,1 +1,1 @@
-Some python
+A very small Знерщт piece.
